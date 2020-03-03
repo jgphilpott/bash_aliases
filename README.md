@@ -1,2 +1,3 @@
-# bash-aliases
-A repository to host my bash aliases.
+# Intro
+
+A repository to share my bash aliases.

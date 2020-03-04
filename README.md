@@ -24,7 +24,7 @@ These aliases are for reading hardware stats like disk space, memory usage and p
 
 ### [Git](https://github.com/jgphilpott/bash_aliases/tree/master/git)
 
-These aliases are shorthand for commonly used git commands such as push, pull and commit.
+These aliases are shorthand for commonly used Git commands such as pull, push and commit.
 
 ### [PIP](https://github.com/jgphilpott/bash_aliases/tree/master/pip)
 
@@ -32,8 +32,8 @@ These aliases are shorthand for commonly used PIP commands.
 
 ### [Conda](https://github.com/jgphilpott/bash_aliases/tree/master/conda)
 
-These aliases are shorthand for commonly used conda commands.
+These aliases are shorthand for commonly used Conda commands.
 
 ### [Docker](https://github.com/jgphilpott/bash_aliases/tree/master/docker)
 
-These aliases are shorthand for commonly used docker commands.
+These aliases are shorthand for commonly used Docker commands.

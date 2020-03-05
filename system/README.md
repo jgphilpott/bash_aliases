@@ -9,4 +9,4 @@
 # Network
 
  - Alias `nm` is short for 'Network Map' and will list the active ports at the given address.
- - Alias `nmlh` is short for 'Network Map Localhost'and will list the active ports on localhost.
+ - Alias `nmlh` is short for 'Network Map Localhost' and will list the active ports on localhost.

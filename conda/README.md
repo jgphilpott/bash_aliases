@@ -10,7 +10,7 @@
  - Alias `mkcenv` is short for 'Make Conda Environment' and will create a Conda environment with the given name.
  - Alias `rmcenv` is short for 'Remove Conda Environment' and will delete the Conda environment with the given name.
  - Alias `cenvon` is short for 'Conda Environment On' and will activate the given Conda environment.
- - Alias `cenvof` is short for 'Conda Environment Off' and will deactivate the given Conda environment.
+ - Alias `cenvof` is short for 'Conda Environment Off' and will deactivate the current Conda environment.
 
 # Requirements
 

@@ -2,7 +2,7 @@
 
  - Alias `pls` is short for 'PIP List' and will display all the packages installed in the current environment.
  - Alias `pi` is short for 'PIP Install' and will install the given package.
- - Alias `pui` is short for 'Pip Uninstall' and will uninstall the given package.
+ - Alias `pui` is short for 'PIP Uninstall' and will uninstall the given package.
 
 # Environments
 

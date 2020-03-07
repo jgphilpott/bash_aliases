@@ -3,8 +3,8 @@ alias ci="conda install"
 alias cui="conda uninstall"
 
 alias cenvs="conda info --envs"
-alias mkcenv="conda create --name"
-alias rmcenv="conda env remove --name"
+alias cenvmk="conda create --name"
+alias cenvrm="conda env remove --name"
 alias cenvon="conda activate"
 alias cenvof="conda deactivate"
 

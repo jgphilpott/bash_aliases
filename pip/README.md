@@ -6,7 +6,7 @@
 
 # Environments
 
- - Alias `mkpenv` is short for 'Make PIP Environment' and will create a PIP environment with the given name.
+ - Alias `penvmk` is short for 'PIP Environment Make' and will create a PIP environment with the given name.
  - Alias `penvon` is short for 'PIP Environment On' and will activate the given PIP environment.
  - Alias `penvof` is short for 'PIP Environment Off' and will deactivate the current PIP environment.
 

@@ -1,6 +1,7 @@
 alias gc="git clone"
 alias gs="git status"
 alias ga="git add"
+alias gp="git add -p"
 alias gcm="git commit -m"
 alias gl="git log --pretty=format:'%h - %an, %ar: %s'"
 

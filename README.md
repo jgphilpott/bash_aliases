@@ -16,7 +16,7 @@ You can look at the explanations for each alias in the associated README and the
 
 ### [Common](https://github.com/jgphilpott/bash_aliases/tree/master/common)
 
-These aliases are commonly used commands for navigating the filesystem as well as creating and removing files and directories.
+These aliases are for navigating the filesystem as well as creating and removing files and directories.
 
 ### [System](https://github.com/jgphilpott/bash_aliases/tree/master/system)
 

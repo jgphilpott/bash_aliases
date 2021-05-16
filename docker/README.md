@@ -22,5 +22,5 @@
 
  - Alias `dcb` is short for 'Docker Compose Build' and will build all the containers listed in the docker compose file.
  - Alias `dcu` is short for 'Docker Compose Up' and will activate all the containers listed in the docker compose file.
- - Alias `dcud` is short for 'Docker Compose Up Detached' and will activate all the containers listed in the docker compose file in detached mode.
+ - Alias `dcud` is short for 'Docker Compose Up Detached' and will activate all the containers listed in the docker compose file, then detach.
  - Alias `dcd` is short for 'Docker Compose Down' and will deactivate all the containers listed in the docker compose file.

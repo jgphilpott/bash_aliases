@@ -11,6 +11,7 @@ alias dcls="docker container ls -as"
 alias dcrm="docker container rm --force"
 
 alias dcb="docker-compose up --build"
+alias dcstart="docker-compose start"
+alias dcstop="docker-compose stop"
 alias dcu="docker-compose up"
-alias dcud="docker-compose up -d"
 alias dcd="docker-compose down"

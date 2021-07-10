@@ -21,6 +21,7 @@
 # Compose
 
  - Alias `dcb` is short for 'Docker Compose Build' and will build all the containers listed in the docker compose file.
+ - Alias `dcstart` is short for 'Docker Compose Start' and will start all the containers listed in the docker compose file.
+ - Alias `dcstop` is short for 'Docker Compose Stop' and will stop all the containers listed in the docker compose file without removing them.
  - Alias `dcu` is short for 'Docker Compose Up' and will activate all the containers listed in the docker compose file.
- - Alias `dcud` is short for 'Docker Compose Up Detached' and will activate all the containers listed in the docker compose file, then detach.
- - Alias `dcd` is short for 'Docker Compose Down' and will deactivate all the containers listed in the docker compose file.
+ - Alias `dcd` is short for 'Docker Compose Down' and will deactivate all the containers listed in the docker compose file and remove them.

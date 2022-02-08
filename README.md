@@ -26,6 +26,10 @@ These aliases are for reading hardware stats like disk space, memory usage and p
 
 These aliases are shorthand for commonly used Git commands such as pull, push and commit.
 
+### [Composer](https://github.com/jgphilpott/bash_aliases/tree/master/composer)
+
+These aliases are shorthand for commonly used Composer commands.
+
 ### [PIP](https://github.com/jgphilpott/bash_aliases/tree/master/pip)
 
 These aliases are shorthand for commonly used PIP commands.

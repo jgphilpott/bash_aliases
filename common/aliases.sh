@@ -4,6 +4,8 @@ alias bk="cd .."
 alias ls="ls"
 alias lsa="ls -a"
 
+alias src="source"
+
 alias mk="touch"
 alias mkdir="mkdir"
 
